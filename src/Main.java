@@ -1,12 +1,17 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-
-//Das ganze mit git verbinden,+JavaFX ready machen(1.Step erstmal "Figma" dummy entwerfen.giti).
+//Git push:
+// git add .
+//git commit -m "describe what you changed"
+//git push
+//+JavaFX ready machen(1.Step erstmal "Figma" dummy entwerfen.giti).
 
 public class Main {
     public static void main(String[] args) {
 
-
+//git add .
+//git commit -m "describe what you changed"
+//git push
 
 Scanner scanner= new Scanner(System.in);
 ArrayList<MediaItem> itemList=new ArrayList<>();
