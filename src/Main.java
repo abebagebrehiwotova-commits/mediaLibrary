@@ -9,9 +9,6 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-//git add .
-//git commit -m "describe what you changed"
-//git push
 
 Scanner scanner= new Scanner(System.in);
 ArrayList<MediaItem> itemList=new ArrayList<>();
